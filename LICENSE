@@ -1,0 +1,32 @@
+QUANTUM EDGE GUARD — PROPRIETARY LICENSE
+
+© 2026 Chase Bryan / NIGHTWARE LABZ. All rights reserved.
+
+This repository is publicly visible for transparency and evaluation
+purposes only. Public visibility does NOT grant any license to use,
+copy, modify, merge, publish, distribute, sublicense, or sell copies of
+this software, in whole or in part, except as expressly permitted below.
+
+PERMITTED WITHOUT A COMMERCIAL LICENSE:
+  * Reading the source to evaluate the product.
+  * Building the software for personal evaluation on your own machines,
+    for a reasonable evaluation period, without redistribution.
+
+ALL OTHER USE REQUIRES A COMMERCIAL LICENSE from NIGHTWARE LABZ,
+including production use, use within an organization, and any
+redistribution in source or binary form.
+
+This software is provided "as is", without warranty of any kind, express
+or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and noninfringement.
+In no event shall the authors or copyright holders be liable for any
+claim, damages, or other liability arising from the use of this software.
+
+Nothing in this license or in any NIGHTWARE LABZ product description
+constitutes a guarantee that any system is unbreakable or immune to
+attack. Quantum Edge Guard audits, grades, and policy-checks
+cryptographic configuration; see README.md and SPEC.md for its exact,
+honest scope.
+
+Commercial licensing: via NIGHTWARE LABZ (GitHub: nightwarelabz;
+storefront: nosuchmachine.net).

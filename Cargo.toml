@@ -1,0 +1,17 @@
+[package]
+name = "quantum-edge-guard"
+version = "0.1.0"
+edition = "2021"
+description = "Terminal-first guard that audits, grades, and policy-checks a machine's cryptography for the AI and quantum era."
+license-file = "LICENSE"
+
+[[bin]]
+name = "qeg"
+path = "src/main.rs"
+
+[dependencies]
+rustls = { version = "0.23", default-features = false, features = ["ring", "std", "tls12"] }
+webpki-roots = "1"
+
+[profile.release]
+opt-level = 3
